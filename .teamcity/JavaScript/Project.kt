@@ -15,7 +15,7 @@ object Project : Project({
     parentId = "_Root"
     name = "JavaScript"
     description = "My JavaScript Project in Team City"
-    
+
     vcsRoot(JavaScript_HttpsGithubComTonkonteamTeamcityCourseCards)
     vcsRoot(JavaScript_HttpsGithubComTonkonteamJavascriptSetting)
 
@@ -23,6 +23,7 @@ object Project : Project({
     buildType(JavaScript_01FastTest)
     buildType(JavaScript_02Chrome)
     buildType(JavaScript_02FireFox)
+    buildType(JavaScript_02IE)
 
     template(JavaScript_Template)
 
