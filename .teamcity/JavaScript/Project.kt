@@ -14,7 +14,8 @@ object Project : Project({
     extId = "JavaScript"
     parentId = "_Root"
     name = "JavaScript"
-
+    description = "My JavaScript Project in Team City"
+    
     vcsRoot(JavaScript_HttpsGithubComTonkonteamTeamcityCourseCards)
     vcsRoot(JavaScript_HttpsGithubComTonkonteamJavascriptSetting)
 
