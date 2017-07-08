@@ -2,6 +2,7 @@
 <project>
   <modelVersion>4.0.0</modelVersion>
   <name>JavaScript Config DSL Script</name>
+  <description>My JS Project</description>
   <properties>
     <kotlin.version>1.1.2</kotlin.version>
     <teamcity.dsl.version>2017.1.2</teamcity.dsl.version>
