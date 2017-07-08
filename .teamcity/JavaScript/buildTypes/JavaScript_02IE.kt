@@ -2,7 +2,7 @@ package JavaScript.buildTypes
 
 import jetbrains.buildServer.configs.kotlin.v10.*
 
-object JavaScript_02Chrome : BuildType({
+object JavaScript_02IE : BuildType({
     template(JavaScript.buildTypes.JavaScript_Template)
     uuid = "javascript_02ie_1001"
     extId = "JavaScript_02IE"
